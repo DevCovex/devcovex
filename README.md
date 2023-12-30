@@ -11,19 +11,19 @@
 ## Tecnologia e projetos que uso no meu dia a dia
 
 <div style=“display: inline_block”><br/>
-<img olign=“center” alt=“PYTHON” src=“https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white” />
+  <img olign=“center” alt=“python” src=“https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white” />
 </div>
 <div style=“display: inline_block”><br/>
-<img olign=“center” alt=“CSS” src=“https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white” />
+<img olign=“center” alt=“css” src=“https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white” />
 </div>
 <div style=“display: inline_block”><br/>
-<img olign=“center” alt=“JAVASCRIPT” src=“https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E” />
+<img olign=“center” alt=“javascript” src=“https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E” />
 </div>
 <div style=“display: inline_block”><br/>
-<img olign=“center” alt=“NODE.JS” src=“https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white” />
+<img olign=“center” alt=“node.js” src=“https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white” />
 </div>
 <div style=“display: inline_block”><br/>
-<img olign=“center” alt=“LUA” src=“https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white” />
+<img olign=“center” alt=“lua” src=“https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white” />
 </div>
 
 
