@@ -10,19 +10,15 @@
 
 ## Tecnologia e projetos que uso no meu dia a dia
 
-<div style=“display: inline_block”><br/>
-  <img olign=“center” alt=“python” src=“https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white” />
-</div>
-<div style=“display: inline_block”><br/>
+<div style=“display: inline_block”><br />
+<img olign=“center” alt=“python” src=“https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white” />
+<div style=“display: inline_block”><br />
 <img olign=“center” alt=“css” src=“https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white” />
-</div>
-<div style=“display: inline_block”><br/>
+<div style=“display: inline_block”><br />
 <img olign=“center” alt=“javascript” src=“https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E” />
-</div>
-<div style=“display: inline_block”><br/>
+<div style=“display: inline_block”><br />
 <img olign=“center” alt=“node.js” src=“https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white” />
-</div>
-<div style=“display: inline_block”><br/>
+<div style=“display: inline_block”><br />
 <img olign=“center” alt=“lua” src=“https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white” />
 </div>
 
